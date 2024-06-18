@@ -2,7 +2,7 @@
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/nickberliner/gls
+git clone https://github.com/nickberliner/gls.git
 cd gls
 ```
 
